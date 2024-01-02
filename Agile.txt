@@ -1,0 +1,23 @@
+12 principles of agile:-
+1.customer satisfaction
+2.Welcome the changing requirements
+3.Delivering working software frequently
+4.Business people and developers must work together daily
+5.Build projects around motivated people
+6.face to face communication
+7.working software is primary measure of progress
+8.sustainablle developement through constant pace between dev, cust, users
+9.Continuous focus on technical excellence and good design
+10.Simplicity 
+11.Self organising team best architecture,requirements,desighn
+12.At regular intervals team self analyses how to improve and effective and tunes and adjusts behavior accordingly.
+
+
+100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850 900 950 1000
+100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850 900 950 1000
+
+ 3:30 4:00 4:30 5:00  
+
+8 8:30 9 9:30 10 
+ 1         2   3      4  
+4x30 = 120 mins
