@@ -5,7 +5,7 @@ public class Progrm2 {
     //fgf
 	public static void main(String[] args) 
 	{
-		System.out.println("git");
+		System.out.println("tit merge conflict");
 
 	}
 
